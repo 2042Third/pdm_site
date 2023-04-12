@@ -28,6 +28,8 @@ link = "https://github.com/2042Third"
     # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
     description = "End-to-end data management platform"
 
+    images = ["/logo.png"]
+
     # Header config
     # 页面头部导航栏配置
     [params.header]
